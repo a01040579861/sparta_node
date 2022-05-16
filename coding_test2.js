@@ -1,3 +1,4 @@
+// 짝수와 홀수
 // 짝수 = Even
 // 홀수 = Odd
 function solution(num) {

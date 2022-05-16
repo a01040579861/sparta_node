@@ -8,5 +8,4 @@ function solution(arr1, arr2) {
         } 
     return answer; 
 }
-//실행 했을때 출력 되는 값을 보기위한 코드
 console.log(solution([[1,2], [2,3]], [[3,4],[5,6]]))
